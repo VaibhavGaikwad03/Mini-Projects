@@ -45,6 +45,6 @@ int main()
     scanf("%d%d%d", &hrs, &min, &sec);
 
     Clock(hrs, min, sec);
-
+ 
     return 0;
 } 
