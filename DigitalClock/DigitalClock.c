@@ -47,4 +47,4 @@ int main()
     Clock(hrs, min, sec);
 
     return 0;
-}
+} 
