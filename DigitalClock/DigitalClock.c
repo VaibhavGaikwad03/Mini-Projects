@@ -11,7 +11,7 @@ void Clock(int hrs, int min, int sec)
         printf("ERROR !!!");
         exit(0);
     }
-
+ 
     while(1)
     {
         sec++;
