@@ -6,7 +6,7 @@ using namespace std;
 #define EURO 1.98
 #define BRITISHPOUND 93.96
 #define AUSDOLLAR 55.09
-#define CANADIANDOLLAR 61.35
+#define CANADIANDOLLAR 61.35 
 #define SINGAPOREDOLLAR 57.41
 #define SWISSFRANC 78.60
 #define MALASIANRINGGIT 17.79
